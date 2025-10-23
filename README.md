@@ -1,4 +1,4 @@
-# Hi There!
+# Hi There 👋
 
 ## I'm Isabel, Architectural Engineering student, aspiring structural engineer, and casual programmer!
 
