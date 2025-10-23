@@ -1,4 +1,6 @@
-# About me
+# Hi There!
+
+## I'm Isabel, a fourth-yeat Architectural Engineering student at UWaterloo
 
 <!--
 **isabelcrant/isabelcrant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
