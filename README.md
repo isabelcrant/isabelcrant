@@ -1,6 +1,6 @@
 # Hi There!
 
-## I'm Isabel, a fourth-year Architectural Engineering student at UWaterloo
+## I'm Isabel, Architectural Engineering student, aspiring structural engineer, and casual programmer!
 
 <!--
 **isabelcrant/isabelcrant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
