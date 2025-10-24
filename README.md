@@ -12,4 +12,4 @@ I am a musician with a strong background in classical voice (you can often catch
 
 Substack: <a href="https://isabelcrant.substack.com">isabelcrant</a> ✍️  
 X: <a href="https://x.com/isabelcrant">isabelcrant</a> 🐦  
-Strava: <a href="https://www.strava.com/athletes/116448545">isabelcant</a> 🏃‍♀️  
+Strava: <a href="https://www.strava.com/athletes/116448545">isabelcrant</a> 🏃‍♀️  
