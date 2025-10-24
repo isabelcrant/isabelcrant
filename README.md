@@ -8,7 +8,7 @@ Deeply passionate about community, volunteering and research, having led the str
 My website: <a href="https://isabelcrant.me">isabelcrant.me</a> 🌐  
 LinkedIn: <a href="https://www.linkedin.com/in/isabelcrant/">isabelcrant</a> 💼
 
-I am a musician with a strong background in classical voice (you can often catch me singing in local choirs). Also big into tennis, cycling, running, hiking, film, literature, poetry... You get it! See my fun other things:
+I am a musician with a strong background in classical voice (you can often catch me singing in local choirs). Also big into tennis, cycling, running, hiking, film, literature, poetry, etc. See my fun other things:
 
 Substack: <a href="https://isabelcrant.substack.com">crantrants</a> ✍️  
 X: <a href="https://x.com/isabelcrant">isabelcrant</a> 🐦  
