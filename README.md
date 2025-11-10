@@ -1,7 +1,7 @@
 # Hi There 👋
 
 ## I'm Isabel, architectural engineering student, aspiring structural engineer, and casual programmer!
-Currently interning at <a href="https://www.mottmac.com/">Mott MacDonald</a>, where I contribute to the structural engineering of some super cool buildings and collab with digital ventures. Previously interned at <a href="https://www.sgh.com/">SGH</a>, <a href="https://www.entuitive.com/">Entuitive</a> (2x), <a href="https://consultingengineers.ca/">JRHE</a>, and <a href="https://www.ellisdon.com/">EllisDon</a>.
+Currently interning at <a href="https://www.mottmac.com/">Mott MacDonald</a>, where I contribute to the structural engineering of very cool buildings and collaborate with digital delivery. Previously interned at <a href="https://www.sgh.com/">SGH</a>, <a href="https://www.entuitive.com/">Entuitive</a> (2x), <a href="https://consultingengineers.ca/">JRHE</a>, and <a href="https://www.ellisdon.com/">EllisDon</a>.
 
 Deeply passionate about community, volunteering and research, having led the structural team at <a href="https://www.warriorhome.ca/">Warrior Home</a> and developed ML models predicting structural conditions with the <a href="https://uwaterloo.ca/civil-environmental-engineering/">Civil Engineering department at UWaterloo</a>. You can read more on:
  
